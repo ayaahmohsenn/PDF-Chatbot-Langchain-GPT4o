@@ -8,5 +8,4 @@ A chatbot for PDFs
 <li><strong>Python</strong> <ul>
       <li>Langchain (https://www.langchain.com/).</li>
       <li>Streamlit (https://streamlit.io/).</li>
-      <li> (https://scikit-learn.org/stable/).</li>
   </ul></li>
